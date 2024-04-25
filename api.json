@@ -1,0 +1,41 @@
+{
+    "sabores": [
+        {
+            "id": "1",
+            "nome": "peperoni",
+            "preço": 39.9,
+            "descricao": "Uma pizza de peperoni.",
+            "promocao": true
+        },
+        
+        {
+            "id": "1",
+            "nome": "pizza de galinha",
+            "preço": 39.9,
+            "descricao": "Uma pizza da galinhada, sua esposa vai odiar.",
+            "promocao": true
+        },
+        {
+            "id": "1",
+            "nome": "pizza de ervas babilonicas",
+            "preço": 39.9,
+            "descricao": "Uma pizza diretamente dos alpes babilonicos, aprimoradas da jamaica.",
+            "promocao": true
+        },
+        {
+            "id": "1",
+            "nome": "pizza mortadela",
+            "preço": 39.9,
+            "descricao": "pizza deliciosa, as mesmas mortadelas compradas pelo prefeito para as escolas municipais.",
+            "promocao": true
+        },
+        {
+            "id": "1",
+            "nome": "pizza de queijo",
+            "preço": 39.9,
+            "descricao": "com ingredientes raspados daquela cueca e calcinha usadas a mais de uma semana, o queijo com cheiro inigualável, com pitadas deliciosas de pentelhos.",
+            "promocao": true
+        }
+
+    ]
+}
